@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me
 - 💼 GitHub: https://github.com/erprincechauhan
-- 📧 Email: your-email@example.com
+- 📧 Email: erprincechauhan@gmail.com
 - 🌐 Portfolio: Coming Soon...
 
 ---
