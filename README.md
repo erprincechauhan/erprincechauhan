@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prince Chauhan
 
-💻 Passionate Developer | 🚀 Learning AI & Full Stack Development | 🎯 Future Software Engineer
+💻 Passionate Developer | 🚀 Learning AI & Full-Stack Development | 🎯 Aspiring Data Scientist & AI Engineer
 
 ---
 
