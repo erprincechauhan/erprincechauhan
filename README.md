@@ -34,7 +34,9 @@
 ## 📊 GitHub Stats
 
 ![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=erprincechauhan&show_icons=true&theme=tokyonight)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sourabh7singh&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erprincechauhan&layout=compact&theme=tokyonight)
 
 ---
