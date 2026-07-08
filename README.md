@@ -39,6 +39,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erprincechauhan&layout=compact&theme=tokyonight)
 
+---  
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erprincechauhan&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 🏆 GitHub Trophies
